@@ -8,5 +8,4 @@
 Lanrry2tech/Lanrry2tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-HTML 
 <HTML>love coding<htlm->
